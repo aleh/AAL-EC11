@@ -1,3 +1,7 @@
+This has been moved to a larger toolkit at https://github.com/aleh/a21
+
+---
+
 # EC-11 Rotary Encoder Helper Library
 
 This is a little library that helps to work with EC-11 style of rotary encoders on Arduino. The dependancy on Arduino functions is very small, so it can be easily ported to other platforms. See `ec11.hpp` for the docs and `examples` folder for a little demo.
